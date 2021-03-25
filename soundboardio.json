@@ -1,0 +1,415 @@
+{
+  "name": "Jolanda",
+  "shortName": "Jolanda",
+  "description": "Hodně budeš někde!",
+  "color": "#263238",
+  "rootUrl": "https://soundboardio.aquasoup.com/jolanda/",
+  "author": {
+    "name": "Sám Život",
+    "url": "https://aquasoup.com"
+  },
+  "lang": "cs",
+  "version": "1.0.0",
+  "tiles": [
+    {
+      "name": "A chci abyste videli jak sem zkusena",
+      "filename": "a-chci-abyste-videli-jak-sem-zkusena.mp3"
+    },
+    {
+      "name": "A chci hodne jidla protoze sem ciganka",
+      "filename": "a-chci-hodne-jidla-protoze-sem-ciganka.mp3"
+    },
+    {
+      "name": "A ja cejtim s vama",
+      "filename": "a-ja-cejtim-s-vama.mp3"
+    },
+    {
+      "name": "A jeje to sem se bala",
+      "filename": "a-jeje-to-sem-se-bala.mp3"
+    },
+    {
+      "name": "A odejdes tam kde zijes",
+      "filename": "a-odejdes-tam-kde-zijes.mp3"
+    },
+    {
+      "name": "A skutecnost je osud",
+      "filename": "a-skutecnost-je-osud.mp3"
+    },
+    {
+      "name": "A todleto nikdy nebylo ve vysilani",
+      "filename": "a-todleto-nikdy-nebylo-ve-vysilani.mp3"
+    },
+    {
+      "name": "A von hodne trpel protoze trpel",
+      "filename": "a-von-hodne-trpel-protoze-trpel.mp3"
+    },
+    {
+      "name": "Abyste citili tu teplotu ve vasich silach ve vasich zilach",
+      "filename": "abyste-citili-tu-teplotu-ve-vasich-silach-ve-vasich-zilach.mp3"
+    },
+    {
+      "name": "Ale gadzove ne",
+      "filename": "ale-gadzove-ne.mp3"
+    },
+    {
+      "name": "Ale ja ne ja sem cista bytost",
+      "filename": "ale-ja-ne-ja-sem-cista-bytost.mp3"
+    },
+    {
+      "name": "Ale rozsvitte dou vanoce",
+      "filename": "ale-rozsvitte-dou-vanoce.mp3"
+    },
+    {
+      "name": "Ale tady mate vy vase svetlo",
+      "filename": "ale-tady-mate-vy-vase-svetlo.mp3"
+    },
+    {
+      "name": "Ale ze sracek muzete vytahnout se",
+      "filename": "ale-ze-sracek-muzete-vytahnout-se.mp3"
+    },
+    {
+      "name": "Ano ja se za to nestydim",
+      "filename": "ano-ja-se-za-to-nestydim.mp3"
+    },
+    {
+      "name": "Ano mluvte do telefonu",
+      "filename": "ano-mluvte-do-telefonu.mp3"
+    },
+    {
+      "name": "Ano sem ciganka sem bila moje rodice byli bili",
+      "filename": "ano-sem-ciganka-sem-bila-moje-rodice-byli-bili.mp3"
+    },
+    {
+      "name": "At ti zehna buh",
+      "filename": "at-ti-zehna-buh.mp3"
+    },
+    {
+      "name": "Byla ste zarazena nebo pan muze bejt zarazenej",
+      "filename": "byla-ste-zarazena-nebo-pan-muze-bejt-zarazenej.mp3"
+    },
+    {
+      "name": "Bylo to hodne zakazany",
+      "filename": "bylo-to-hodne-zakazany.mp3"
+    },
+    {
+      "name": "Chcete volat nechcete volat volejte necekejte",
+      "filename": "chcete-volat-nechcete-volat-volejte-necekejte.mp3"
+    },
+    {
+      "name": "Chci poradny polivky",
+      "filename": "chci-poradny-polivky.mp3"
+    },
+    {
+      "name": "Chodila sem z moji maminkou z vesnici do vesnici",
+      "filename": "chodila-sem-z-moji-maminkou-z-vesnici-do-vesnici.mp3"
+    },
+    {
+      "name": "Cim starsi tim je dokolonejsi",
+      "filename": "cim-starsi-tim-je-dokolonejsi.mp3"
+    },
+    {
+      "name": "Dneska opet zijeme",
+      "filename": "dneska-opet-zijeme.mp3"
+    },
+    {
+      "name": "Do toho robota",
+      "filename": "do-toho-robota.mp3"
+    },
+    {
+      "name": "Dobry vecer",
+      "filename": "dobry-vecer.mp3"
+    },
+    {
+      "name": "Dohlidnete na vasi dceru at nedela takovy kopiciny",
+      "filename": "dohlidnete-na-vasi-dceru-at-nedela-takovy-kopiciny.mp3"
+    },
+    {
+      "name": "Ha jedeme",
+      "filename": "ha-jedeme.mp3"
+    },
+    {
+      "name": "Halo",
+      "filename": "halo.mp3"
+    },
+    {
+      "name": "Hodne budes nekde",
+      "filename": "hodne-budes-nekde.mp3"
+    },
+    {
+      "name": "Hodne si trpel a hodne si hladoval",
+      "filename": "hodne-si-trpel-a-hodne-si-hladoval.mp3"
+    },
+    {
+      "name": "Hodne vysoko miris",
+      "filename": "hodne-vysoko-miris.mp3"
+    },
+    {
+      "name": "I ten spatnej clovek na kazdyho spadne",
+      "filename": "i-ten-spatnej-clovek-na-kazdyho-spadne.mp3"
+    },
+    {
+      "name": "I von panbuh se vam odveci",
+      "filename": "i-von-panbuh-se-vam-odveci.mp3"
+    },
+    {
+      "name": "Ja rada varim ano protoze je to na me videt",
+      "filename": "ja-rada-varim-ano-protoze-je-to-na-me-videt.mp3"
+    },
+    {
+      "name": "Jaj boze muj hod tam tu sul na nekoho tam z okna",
+      "filename": "jaj-boze-muj-hod-tam-tu-sul-na-nekoho-tam-z-okna.mp3"
+    },
+    {
+      "name": "Jaj boze muj",
+      "filename": "jaj-boze-muj.mp3"
+    },
+    {
+      "name": "Jaj chudak",
+      "filename": "jaj-chudak.mp3"
+    },
+    {
+      "name": "Kdo chce a vniva",
+      "filename": "kdo-chce-a-vniva.mp3"
+    },
+    {
+      "name": "Kdybych mohla tak udelam hodne jolandy ze sebe",
+      "filename": "kdybych-mohla-tak-udelam-hodne-jolandy-ze-sebe.mp3"
+    },
+    {
+      "name": "Lidi co ste v obyvaku nebo na sedacce",
+      "filename": "lidi-co-ste-v-obyvaku-nebo-na-sedacce.mp3"
+    },
+    {
+      "name": "Mate strach",
+      "filename": "mate-strach.mp3"
+    },
+    {
+      "name": "Moje jmeno je jolanda",
+      "filename": "moje-jmeno-je-jolanda.mp3"
+    },
+    {
+      "name": "Moje rodina sou vsecky bili",
+      "filename": "moje-rodina-sou-vsecky-bili.mp3"
+    },
+    {
+      "name": "Musej mit hladnou hlavu",
+      "filename": "musej-mit-hladnou-hlavu.mp3"
+    },
+    {
+      "name": "Musela sem davat pozor aby neprijely benga",
+      "filename": "musela-sem-davat-pozor-aby-neprijely-benga.mp3"
+    },
+    {
+      "name": "Muzete polozit jenom jednu a odpovim vam jenom tri",
+      "filename": "muzete-polozit-jenom-jednu-a-odpovim-vam-jenom-tri.mp3"
+    },
+    {
+      "name": "Necekejte az vyhasnete",
+      "filename": "necekejte-az-vyhasnete.mp3"
+    },
+    {
+      "name": "Nehraju ze sebe nejaka gadzovka",
+      "filename": "nehraju-ze-sebe-nejaka-gadzovka.mp3"
+    },
+    {
+      "name": "Nejezdim tamhle na moarolku",
+      "filename": "nejezdim-tamhle-na-moarolku.mp3"
+    },
+    {
+      "name": "Nejsem jako bych rekla gadzika",
+      "filename": "nejsem-jako-bych-rekla-gadzika.mp3"
+    },
+    {
+      "name": "Nejsem namyslena",
+      "filename": "nejsem-namyslena.mp3"
+    },
+    {
+      "name": "Nejsem nejakej fanatik",
+      "filename": "nejsem-nejakej-fanatik.mp3"
+    },
+    {
+      "name": "Nejsem nejaky medium",
+      "filename": "nejsem-nejaky-medium.mp3"
+    },
+    {
+      "name": "Nejsem nejaky takovy abyste se bali",
+      "filename": "nejsem-nejaky-takovy-abyste-se-bali.mp3"
+    },
+    {
+      "name": "Nejsem vystudovana protoze na to sem nikdy nemela",
+      "filename": "nejsem-vystudovana-protoze-na-to-sem-nikdy-nemela.mp3"
+    },
+    {
+      "name": "Nemam nejaky kaviary nebo nejaky holubata",
+      "filename": "nemam-nejaky-kaviary-nebo-nejaky-holubata.mp3"
+    },
+    {
+      "name": "Nenechte se zmat",
+      "filename": "nenechte-se-zmat.mp3"
+    },
+    {
+      "name": "Neprepinejte kanela",
+      "filename": "neprepinejte-kanela.mp3"
+    },
+    {
+      "name": "Nespinkejte",
+      "filename": "nespinkejte.mp3"
+    },
+    {
+      "name": "Neustale ste hodne truhlila",
+      "filename": "neustale-ste-hodne-truhlila.mp3"
+    },
+    {
+      "name": "Nevzlatejte",
+      "filename": "nevzlatejte.mp3"
+    },
+    {
+      "name": "No dekuju za odpoved",
+      "filename": "no-dekuju-za-odpoved.mp3"
+    },
+    {
+      "name": "No tady sem ciganka jolanda",
+      "filename": "no-tady-sem-ciganka-jolanda.mp3"
+    },
+    {
+      "name": "Od tech detskych od tech dospelosti",
+      "filename": "od-tech-detskych-od-tech-dospelosti.mp3"
+    },
+    {
+      "name": "Pane boze",
+      "filename": "pane-boze.mp3"
+    },
+    {
+      "name": "Pes je pritel cloveka",
+      "filename": "pes-je-pritel-cloveka.mp3"
+    },
+    {
+      "name": "Pozor i chlapi maji svoje dny",
+      "filename": "pozor-i-chlapi-maji-svoje-dny.mp3"
+    },
+    {
+      "name": "Pro me je malo tisic korun",
+      "filename": "pro-me-je-malo-tisic-korun.mp3"
+    },
+    {
+      "name": "Protoze tady vidim bozi oko",
+      "filename": "protoze-tady-vidim-bozi-oko.mp3"
+    },
+    {
+      "name": "Sem ciganka zaplat panbuh",
+      "filename": "sem-ciganka-zaplat-panbuh.mp3"
+    },
+    {
+      "name": "Sem kocova ciganka",
+      "filename": "sem-kocova-ciganka.mp3"
+    },
+    {
+      "name": "Sem obycejna ciganka",
+      "filename": "sem-obycejna-ciganka.mp3"
+    },
+    {
+      "name": "Spadlo to",
+      "filename": "spadlo-to.mp3"
+    },
+    {
+      "name": "Ste vsechno vykolejenovana",
+      "filename": "ste-vsechno-vykolejenovana.mp3"
+    },
+    {
+      "name": "Tady ty ty zlodejove co maj ty automaty",
+      "filename": "tady-ty-ty-zlodejove-co-maj-ty-automaty.mp3"
+    },
+    {
+      "name": "Tady vidim velky spatny",
+      "filename": "tady-vidim-velky-spatny.mp3"
+    },
+    {
+      "name": "Tak cejti temnotu",
+      "filename": "tak-cejti-temnotu.mp3"
+    },
+    {
+      "name": "Tak dobre zdravi a rodinny stavy",
+      "filename": "tak-dobre-zdravi-a-rodinny-stavy.mp3"
+    },
+    {
+      "name": "Tak jaj budoucnost",
+      "filename": "tak-jaj-budoucnost.mp3"
+    },
+    {
+      "name": "Tak jako jolanda se jmenuju",
+      "filename": "tak-jako-jolanda-se-jmenuju.mp3"
+    },
+    {
+      "name": "To je vyslovene magogie todleto",
+      "filename": "to-je-vyslovene-magogie-todleto.mp3"
+    },
+    {
+      "name": "To je zla nemoc todleto",
+      "filename": "to-je-zla-nemoc-todleto.mp3"
+    },
+    {
+      "name": "To neni normarni",
+      "filename": "to-neni-normarni.mp3"
+    },
+    {
+      "name": "Tvoje budoucnost hodne miri vysoko",
+      "filename": "tvoje-budoucnost-hodne-miri-vysoko.mp3"
+    },
+    {
+      "name": "Ukazte svoje svetlo",
+      "filename": "ukazte-svoje-svetlo.mp3"
+    },
+    {
+      "name": "V ty rodine vidim velky mate chaus",
+      "filename": "v-ty-rodine-vidim-velky-mate-chaus.mp3"
+    },
+    {
+      "name": "Vas manzel hraje automaty",
+      "filename": "vas-manzel-hraje-automaty.mp3"
+    },
+    {
+      "name": "Vas rod je prokletej",
+      "filename": "vas-rod-je-prokletej.mp3"
+    },
+    {
+      "name": "Vas velice postihne velka dedicnost",
+      "filename": "vas-velice-postihne-velka-dedicnost.mp3"
+    },
+    {
+      "name": "Vase vztahy budou nadale vam dobre kvetat",
+      "filename": "vase-vztahy-budou-nadale-vam-dobre-kvetat.mp3"
+    },
+    {
+      "name": "Vazim tak kolik me unese moje",
+      "filename": "vazim-tak-kolik-me-unese-moje.mp3"
+    },
+    {
+      "name": "Ve vasem zajemu",
+      "filename": "ve-vasem-zajemu.mp3"
+    },
+    {
+      "name": "Vidim slysim a posloucham",
+      "filename": "vidim-slysim-a-posloucham.mp3"
+    },
+    {
+      "name": "Vsechno se to bouri",
+      "filename": "vsechno-se-to-bouri.mp3"
+    },
+    {
+      "name": "Vy mate dobry nemate nic",
+      "filename": "vy-mate-dobry-nemate-nic.mp3"
+    },
+    {
+      "name": "Za totalite bylo to zakazany",
+      "filename": "za-totalite-bylo-to-zakazany.mp3"
+    },
+    {
+      "name": "Zamicham na vas vas osud",
+      "filename": "zamicham-na-vas-vas-osud.mp3"
+    },
+    {
+      "name": "Zijeme z huby do huby",
+      "filename": "zijeme-z-huby-do-huby.mp3"
+    }
+  ]
+}
