@@ -2,12 +2,25 @@
   "name": "Jolanda",
   "shortName": "Jolanda",
   "description": "Hodně budeš někde!",
-  "color": "#263238",
+  "color": "#880e4f",
   "rootUrl": "https://soundboardio.aquasoup.com/jolanda/",
   "author": {
     "name": "Sám Život",
     "url": "https://aquasoup.com"
   },
+  "icons": [
+    {
+      "src": "/icons/icon-48.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
   "lang": "cs",
   "version": "1.0.0",
   "tiles": [
