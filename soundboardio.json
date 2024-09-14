@@ -2,7 +2,12 @@
   "name": "Jolanda",
   "shortName": "Jolanda",
   "description": "Hodně budeš někde!",
-  "story": "Jolanda, vlastním jménem Věra Nemethová, byla romská kartářka. Proslavila se díky televizní show EZO TV a svému neotřelému vyjadřování. Získala si popularitu na internetu díky svérázným hláškám jako \"velký špatný\" a \"hodně budeš někde\". Objevila se i v dokumentárních filmech a reklamách. Zemřela v roce 2020, ale její hlášky se staly kultovními.",
+  "story": [
+    "Jolanda, vlastním jménem Věra Nemethová, byla romská kartářka a věštykně. Proslavila se díky televizní show EZO TV a svému neotřelému vyjadřování.",
+    "Na internetu si získala podporu díky svérázným hláškám jako \"velký špatný\" a \"hodně budeš někde\".",
+    "Objevila se i v dokumentárních filmech a reklamách.",
+    "Zemřela v roce 2020, ale její hlášky se staly kultovními."
+  ],
   "color": "#880e4f",
   "rootUrl": "https://soundboardio.aquasoup.com/jolanda/",
   "author": {
@@ -23,7 +28,7 @@
     }
   ],
   "lang": "cs",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "tiles": [
     {
       "name": "A chci, abyste viděli, jak jsem zkušená",
@@ -424,6 +429,20 @@
     {
       "name": "Žijeme z huby do huby",
       "filename": "zijeme-z-huby-do-huby.mp3"
+    }
+  ],
+  "references": [
+    {
+      "name": "Jolanda [Wikipedia]",
+      "url": "https://cs.wikipedia.org/wiki/Jolanda_(kart%C3%A1%C5%99ka)"
+    },
+    {
+      "name": "Sestřih scének [YouTube]",
+      "url": "https://www.youtube.com/watch?v=A3ImjtC5_oY"
+    },
+    {
+      "name": "Oficiální reklama na Plzeňský Prazdroj od Jolandy [Facebook]",
+      "url": "https://www.facebook.com/Gambrinus.cz/videos/392546991531939/"
     }
   ]
 }
