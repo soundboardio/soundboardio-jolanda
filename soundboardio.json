@@ -16,6 +16,11 @@
   },
   "icons": [
     {
+      "src": "/icons/og-image.jpg",
+      "sizes": "1024x1024",
+      "type": "image/jpeg"
+    },
+    {
       "src": "/icons/icon-48.png",
       "sizes": "48x48",
       "type": "image/png"
