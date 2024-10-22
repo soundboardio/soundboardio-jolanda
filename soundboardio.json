@@ -8,8 +8,10 @@
     "Objevila se i v dokumentárních filmech a reklamách.",
     "Zemřela v roce 2020, ale její hlášky se staly kultovními."
   ],
+  "lang": "cs",
+  "version": "1.2.0",
   "color": "#880e4f",
-  "rootUrl": "https://soundboardio.aquasoup.com/jolanda/",
+  "rootUrl": "https://media.soundboardio.com/jolanda/",
   "author": {
     "name": "Sám Život",
     "url": "https://aquasoup.com"
@@ -32,8 +34,6 @@
       "purpose": "maskable any"
     }
   ],
-  "lang": "cs",
-  "version": "1.1.0",
   "tiles": [
     {
       "name": "A chci, abyste viděli, jak jsem zkušená",
